@@ -1,0 +1,16 @@
+------- Parameters for MONTE CARLO SIMULATION FOR ATOMIC LIQUIDS in Reduced units -------
+Potential (LJ/ST)               =   LJ
+Neighbour list method (T/F)     =   T
+Initial structure given (T/F)   =   F
+Initial structure file          =   
+Number of atoms                 =   729
+Density                         =   0.7
+Temperature                     =   1.2
+Potential cutoff distance       =   3.0
+Equilibration sweeps            =   2000
+Production sweeps               =   500
+Maximum move for MC             =   0.2
+Minimum atom-atom distance      =   0.9
+g(r) sampled from r = 0 to r    =   4.0
+Number of g(r) grid points      =   400
+rskin (only for NL method)      =   0.4
